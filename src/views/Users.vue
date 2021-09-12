@@ -1,7 +1,7 @@
 <template>
   <div class="users">
     <!-- <userpage msg="Welcome to Your userspage new ew" /> -->
-    <!-- <h1>Users</h1> -->
+    <h1>Users</h1>
     <!-- <router-link :to="{ name: 'usersProfile' }">profile</router-link> -->
     <router-view />
   </div>
